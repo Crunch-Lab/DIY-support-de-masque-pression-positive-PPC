@@ -1,9 +1,58 @@
-# DIY-support-de-masque-pression-positive-PPC
-J'ai longtemps cherché un moyen de faire secher mon masque de PPC après l'avoir lavé, voici comment j'ai résolu mon problème :
-Support de masque à pression positive PPC pour traitement de l'apnée du sommeil et des hypopnées
+# Support de Masque de Pression Positive Continue (PPC)
 
-Voici les fichier DXF pour découper dans un matériau d'épaiseur 3 mm (du plexiglace dnas l'idéale) pour supporter votre masque PPC pendant qu'il seche qu'il soit facial complet ou juste pour le nez. 
+## Description
 
+Ce projet vise à réaliser un support permettant de faire sécher un masque de PPC, qu'il soit juste nasal ou qu'il englobe la bouche et le nez. Les fichiers DXF fournis permettent de découper les pièces nécessaires à la construction du support à l'aide d'une découpeuse laser.
+
+## Contenu du repository
+
+- `support de masque.svg` : Fichier SVG de l'ensemble des pièces pour la découpe du support pour masque nasal.
+- `support de masque.rld` : Fichier RDL pour la découpe du support pour masque couvrant la bouche et le nez pour RDworks
+- `*.rld` : Fichier DXF chaque pièce de manière individuelle
+- `README.md` : Ce fichier de description du projet.
+- `LICENSE` : Ce fichier de LICENSE.
+
+## Matériel nécessaire
+
+- Découpeuse laser
+- Matériau pour la découpe (de préférence de l'acrylique )
+- Colle (pour les pieds si le montage n'est pas en force)
+
+## Instructions de découpe et d'assemblage
+
+### Utilisation de rdworks
+
+1. **Préparation des fichiers RDL** : Téléchargez le fichiers RDL à partir de ce repository.
+2. **Découpe avec RDWorks** : Utilisez une découpeuse laser pour découper les pièces selon le fichier RDL :warning: adaptez vos parametre de coupe en fonction de la matière.
+3. **Assemblage** :
+    Assemblez les pièces découpées en suivant les indications du fichier DXF. Utilisez de la colle pour maintenir les pieds s'ils ne rentre pas en force.
+4. **Finitions** : Utilisez du papier de verre pour lisser les bords et les surfaces des pièces découpées.
+
+
+### Utilisation de Lightburn
+
+1. **Préparation des fichiers SVG** : Téléchargez le fichiers SVG à partir de ce repository.
+2. **Découpe avec LightBurn** : Utilisez une découpeuse laser pour découper les pièces selon le fichier SVG :warning: adaptez vos parametre de coupe en fonction de la matière.
+
+
+3. **Assemblage** :
+    Assemblez les pièces découpées en suivant les indications du fichier DXF. Utilisez de la colle pour maintenir les pieds s'ils ne rentre pas en force.
+4. **Finitions** : Utilisez du papier de verre pour lisser les bords et les surfaces des pièces découpées.
+
+## Sécurité et maintenance
+
+- Assurez-vous de suivre les consignes de sécurité lors de l'utilisation de la découpeuse laser.
+
+## Contributeurs
+
+- [José Martinez] - Créateur du projet
+- [Autres Contributeurs]
+
+## Licence
+
+Ce projet est sous licence Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Voir le fichier `LICENSE` pour plus de détails.
+
+[![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
 
