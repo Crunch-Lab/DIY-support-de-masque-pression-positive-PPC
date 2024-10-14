@@ -1,4 +1,5 @@
 # DIY-support-de-masque-pression-positive-PPC
+J'ai longtemps cherché un moyen de faire secher mon masque de PPC après l'avoir lavé, voici comment j'ai résolu mon problème :
 Support de masque à pression positive PPC pour traitement de l'apnée du sommeil et des hypopnées
 
 Voici les fichier DXF pour découper dans un matériau d'épaiseur 3 mm (du plexiglace dnas l'idéale) pour supporter votre masque PPC pendant qu'il seche qu'il soit facial complet ou juste pour le nez. 
