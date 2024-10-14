@@ -23,7 +23,7 @@ Ce projet vise à réaliser un support permettant de faire sécher un masque de 
 ### Utilisation de rdworks
 
 1. **Préparation des fichiers RDL** : Téléchargez le fichiers RDL à partir de ce repository.
-2. **Découpe avec RDWorks** : Utilisez une découpeuse laser pour découper les pièces selon le fichier RDL :warning: adaptez vos parametre de coupe en fonction de la matière.
+2. **Découpe avec RDWorks** : Utilisez une découpeuse laser pour découper les pièces selon le fichier RDL :warning: adaptez vos paramètres de coupe en fonction de la matière.
 3. **Assemblage** :
     Assemblez les pièces découpées en suivant les indications du fichier DXF. Utilisez de la colle pour maintenir les pieds s'ils ne rentre pas en force.
 4. **Finitions** : Utilisez du papier de verre pour lisser les bords et les surfaces des pièces découpées.
@@ -32,7 +32,7 @@ Ce projet vise à réaliser un support permettant de faire sécher un masque de 
 ### Utilisation de Lightburn
 
 1. **Préparation des fichiers SVG** : Téléchargez le fichiers SVG à partir de ce repository.
-2. **Découpe avec LightBurn** : Utilisez une découpeuse laser pour découper les pièces selon le fichier SVG :warning: adaptez vos parametre de coupe en fonction de la matière.
+2. **Découpe avec LightBurn** : Utilisez une découpeuse laser pour découper les pièces selon le fichier SVG :warning: adaptez vos paramètres de coupe en fonction de la matière.
 
 
 3. **Assemblage** :
