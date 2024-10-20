@@ -1,5 +1,14 @@
 # Support de Masque de Pression Positive Continue (PPC)
 
+ 
+:clock2: : 10 min
+ 
+:fire: :star2: :star::star::star::star:
+
+:warning: : Attention de bien choisir la matière et de mettre à jour les paramettres de coupe.
+
+
+
 ## Description
 
 Ce projet vise à réaliser un support permettant de faire sécher un masque de PPC, qu'il soit juste nasal ou qu'il englobe la bouche et le nez. Les fichiers DXF fournis permettent de découper les pièces nécessaires à la construction du support à l'aide d'une découpeuse laser.
