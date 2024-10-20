@@ -3,7 +3,7 @@
  
 :clock2: : 10 min
  
-:fire: :star2: :star::star::star::star:
+:fire: : :full_moon::new_moon::new_moon::new_moon::new_moon:
 
 :warning: : Attention de bien choisir la matière et de mettre à jour les paramettres de coupe.
 
